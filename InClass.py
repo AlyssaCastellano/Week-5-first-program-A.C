@@ -31,7 +31,7 @@ print("I didn't know that", animal, "was your favorite animal")
 
 # Ex 8: Use the variable created in Ex 1
 # If the variable is greater than 10 print a message
-# Otherwise create another message
+# Otherwise create another message bc yes
 
 if num>10:
     print("Congrats, your number is greater than 10!")
